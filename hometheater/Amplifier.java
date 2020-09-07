@@ -1,4 +1,4 @@
-package headfirst.facade.hometheater;
+package hometheater;
 
 public class Amplifier {
 	String description;
